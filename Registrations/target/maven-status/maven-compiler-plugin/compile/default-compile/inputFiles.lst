@@ -1,0 +1,8 @@
+/home/italo/IdeaProjects/Microservices-Projects/Registrations/src/main/java/br/com/microservices/registrations/RegistrationsApplication.java
+/home/italo/IdeaProjects/Microservices-Projects/Registrations/src/main/java/br/com/microservices/registrations/services/UserServiceImpl.java
+/home/italo/IdeaProjects/Microservices-Projects/Registrations/src/main/java/br/com/microservices/registrations/dtos/UserDto.java
+/home/italo/IdeaProjects/Microservices-Projects/Registrations/src/main/java/br/com/microservices/registrations/repositories/UserRepository.java
+/home/italo/IdeaProjects/Microservices-Projects/Registrations/src/main/java/br/com/microservices/registrations/mappers/UserMapper.java
+/home/italo/IdeaProjects/Microservices-Projects/Registrations/src/main/java/br/com/microservices/registrations/services/UserService.java
+/home/italo/IdeaProjects/Microservices-Projects/Registrations/src/main/java/br/com/microservices/registrations/models/User.java
+/home/italo/IdeaProjects/Microservices-Projects/Registrations/src/main/java/br/com/microservices/registrations/controllers/UserController.java

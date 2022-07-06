@@ -1,0 +1,9 @@
+br/com/microservices/registrations/mappers/UserMapper.class
+br/com/microservices/registrations/RegistrationsApplication.class
+br/com/microservices/registrations/repositories/UserRepository.class
+br/com/microservices/registrations/controllers/UserController.class
+br/com/microservices/registrations/services/UserServiceImpl.class
+br/com/microservices/registrations/dtos/UserDto.class
+br/com/microservices/registrations/services/UserService.class
+br/com/microservices/registrations/models/User.class
+br/com/microservices/registrations/mappers/UserMapperImpl.class
